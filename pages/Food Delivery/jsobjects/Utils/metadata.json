@@ -1,0 +1,20 @@
+{
+  "unpublishedCollection": {
+    "name": "Utils",
+    "pageId": "Food Delivery",
+    "pluginId": "js-plugin",
+    "pluginType": "JS",
+    "actions": [],
+    "archivedActions": [],
+    "variables": [
+      {
+        "name": "orderStatusOptions",
+        "value": "[{\n  \"name\": \"Order Placed\",\n  \"code\": \"ORDER PLACED\"\n}, {\n  \"name\": \"Delayed\",\n  \"code\": \"DELAYED\"\n}, {\n  \"name\": \"Delivered\",\n  \"code\": \"DELIVERED\"\n}, {\n  \"name\": \"Refunded\",\n  \"code\": \"REFUNDED\"\n}]"
+      }
+    ],
+    "userPermissions": []
+  },
+  "id": "Food Delivery_Utils",
+  "deleted": false,
+  "gitSyncId": "65e7977e25a9b43cbf0d9443_65e7cb0125a9b43cbf0d949c"
+}
